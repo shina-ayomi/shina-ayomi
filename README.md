@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shina-ayomi a frontend web  and mobile app developer 
-- 👀 I’m interested in continue learning new programming languages and frameworks, To improve my problem-solving skills.
+- 👀 I’m interested in continue learning new programming languages and frameworks, To improve my problem-solving skills
 - 💞️ I’m looking to collaborate on contributing to open-source projects and collaborate with other developers
 - 📫 How to reach me shimarposy2005@gmail.com
 
